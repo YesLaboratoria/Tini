@@ -1,0 +1,97 @@
+header{
+	background-color:#F7D358; 
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.boton{
+	background-color:#FFBF00; 
+	height:50px;
+	width:100px; 
+	margin-top:50px;
+	margin-left:100px;
+	padding:14px;
+
+}
+.blanco{
+	color:white;
+	font-size:14px;
+	text-align: center;
+}
+body{
+	font-family:Roboto;
+}
+.laboratoria{
+	text-align:center;
+	color:white;
+	font-size:25px;
+	margin-left: 390px;
+	margin top:60px;
+}
+.derecha{
+	float:right;
+}
+li a{
+	list-style-type: none;
+	text-decoration: none;
+	color:white;
+}
+nav li{
+	padding:3px;
+	font-size:15px;
+	position:relative;
+	margin:2px;
+	border:1px;
+	display: inline;
+	position:relative;
+	top:20px;
+}
+.caja1{
+	background:#FBFBEF;
+	width:350px;
+	height:450px; 
+	margin:30px;
+    padding:2px;
+}
+.caja2{
+    background:#BDBDBD;
+    width:250px;
+    height:250px;
+    margin:40px 10px 0px 47px;       
+}
+section{
+	background-color: #E6E6E6;
+}
+h1{
+	color:gray;
+	text-align:center;
+	padding:80px;
+}
+h2{
+	color:gray;
+	text-align:left;
+	padding:15px;
+}
+p{
+	text-align: center;
+}
+#boton{
+	background-color:#FFBF00;
+	width:90px; 
+	height:30px;
+	margin-left:120px;
+	margin-top: 20px;
+}
+h5{
+	color:white;
+	text-align:center;
+	padding:5px;
+}
+footer{
+	background-color:#585858;
+}
+h4{
+	color:white;
+	padding:20px;
+	font-size:12px;
+}
