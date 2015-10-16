@@ -1,6 +1,6 @@
 header{
-	background-color:#F7D358; 
-	height: 500px;
+	background-color:black; 
+	height: 300px;
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -14,7 +14,7 @@ header{
 
 }
 .blanco{
-	color:white;
+	color:blue;
 	font-size:14px;
 	text-align: center;
 }
@@ -22,10 +22,10 @@ body{
 	font-family:Roboto;
 }
 .laboratoria{
-	text-align:center;
+	text-align:left;
 	color:white;
 	font-size:25px;
-	margin-left: 390px;
+	margin-left: 400px;
 	margin top:60px;
 }
 .derecha{
@@ -47,7 +47,7 @@ nav li{
 	top:20px;
 }
 .caja1{
-	background:#FBFBEF;
+	background:pink;
 	width:350px;
 	height:450px; 
 	margin:30px;
